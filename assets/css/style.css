@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  background-color: aqua;
+  border: 10px solid darkblue;
+  height: 300px;
+  right: 10px;
+}
+
+li {
+  display: inline;
+  position: relative;
+  margin-left: 30px;
+}
+.future-projects {
+  background-color: rgb(104, 112, 103);
+  border: 10px solid black;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 250px;
+  padding: 20px;
+}
+.future-projects img {
+  margin: 0px auto;
+}
+
+.Contact-Me {
+  background-color: cadetblue;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  border: 10px solid grey;
+  margin-top: 10px;
+}
